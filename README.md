@@ -2,7 +2,6 @@
 
 **Local-first decision tracking and context system for AI agents via MCP.**
 
-*Sankalpa (संकल्प) — Sanskrit for "intention, resolution, determination"*
 
 Track decisions, learn preferences, and maintain context across all your AI interactions.
 
