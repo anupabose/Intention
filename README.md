@@ -128,9 +128,7 @@ Config lives at `~/.intention/config.json`:
 - **"Show decisions about authentication"** - Semantic search across decisions
 - **"What patterns do I follow for API design?"** - Pattern analysis
 
-## License
 
-MIT
 
 ## Topics
 
